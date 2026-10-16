@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Machine_Learning,Java,Mathematics,Operating_Systems,Artificial_Intelligence,Attendance,Total,Average,Grade,Result
+S001,Aditya Sharma,CSE-AIML,78,82,74,88,85,92,407,81.4,A,Pass
+S002,Anjali Das,CSE-AIML,91,89,94,87,90,96,451,90.2,A+,Pass
+S003,Arjun Roy,CSE-AIML,65,71,68,74,70,81,348,69.6,C,Pass
+S004,Neha Ghosh,CSE-AIML,84,79,88,82,86,89,419,83.8,A,Pass
+S005,Rahul Seth,CSE-AIML,56,62,59,64,61,73,302,60.4,C,Fail
+S006,Riya Mukherjee,CSE-AIML,93,95,91,94,96,98,469,93.8,A+,Pass
+S007,Aditya Paul,CSE-AIML,72,68,76,70,74,79,360,72.0,B,Pass
+S008,Ahana Bose,CSE-AIML,88,85,90,86,89,93,438,87.6,A,Pass
+S009,Kunal Das,CSE-AIML,49,55,52,58,54,68,268,53.6,D,Fail
+S010,Ishika Dey,CSE-AIML,81,77,84,80,83,87,405,81.0,A,Pass
+S011,Sourav Mitra,CSE-AIML,69,73,66,71,68,76,347,69.4,C,Pass
+S012,Priyanka Saha,CSE-AIML,95,92,96,94,93,99,470,94.0,A+,Pass
+S013,Vikram Batra,CSE-AIML,61,64,63,67,65,72,320,64.0,C,Fail
+S014,Pooja Singh,CSE-AIML,76,80,78,75,79,84,388,77.6,B,Pass
+S015,Abhishek Shaw,CSE-AIML,87,83,85,89,88,91,432,86.4,A,Pass
+S016,Moumita Datta,CSE-AIML,58,60,55,63,59,70,295,59.0,D,Fail
+S017,Rakesh Banerjee,CSE-AIML,73,75,71,78,76,82,373,74.6,B,Pass
+S018,Tanisha Roy,CSE-AIML,90,88,92,91,89,95,450,90.0,A+,Pass
+S019,Debjit Kumar,CSE-AIML,67,70,65,69,72,77,343,68.6,C,Pass
+S020,Sakshi Kaur,CSE-AIML,82,86,80,84,85,90,417,83.4,A,Pass

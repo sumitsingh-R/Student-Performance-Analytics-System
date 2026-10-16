@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Machine_Learning,Java,Mathematics,Operating_Systems,Artificial_Intelligence,Attendance
+S001,Aditya Sharma,CSE-AIML,78,82,74,88,85,92
+S002,Anjali Das,CSE-AIML,91,89,94,87,90,96
+S003,Arjun Roy,CSE-AIML,65,71,68,74,70,81
+S004,Neha Ghosh,CSE-AIML,84,79,88,82,86,89
+S005,Rahul Seth,CSE-AIML,56,62,59,64,61,73
+S006,Riya Mukherjee,CSE-AIML,93,95,91,94,96,98
+S007,Aditya Paul,CSE-AIML,72,68,76,70,74,79
+S008,Ahana Bose,CSE-AIML,88,85,90,86,89,93
+S009,Kunal Das,CSE-AIML,49,55,52,58,54,68
+S010,Ishika Dey,CSE-AIML,81,77,84,80,83,87
+S011,Sourav Mitra,CSE-AIML,69,73,66,71,68,76
+S012,Priyanka Saha,CSE-AIML,95,92,96,94,93,99
+S013,Vikram Batra,CSE-AIML,61,64,63,67,65,72
+S014,Pooja Singh,CSE-AIML,76,80,78,75,79,84
+S015,Abhishek Shaw,CSE-AIML,87,83,85,89,88,91
+S016,Moumita Datta,CSE-AIML,58,60,55,63,59,70
+S017,Rakesh Banerjee,CSE-AIML,73,75,71,78,76,82
+S018,Tanisha Roy,CSE-AIML,90,88,92,91,89,95
+S019,Debjit Kumar,CSE-AIML,67,70,65,69,72,77
+S020,Sakshi Kaur,CSE-AIML,82,86,80,84,85,90
